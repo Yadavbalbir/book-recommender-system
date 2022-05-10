@@ -4,3 +4,20 @@ This book recommender system is based on Collaborative Filtering. we tend to fin
 
 ![Collaborative filtering explaination](450px-Collaborative_filtering.gif)
 
+This is how the Recommendation Function Look like:
+
+![func](fun_img.jpeg)
+
+these are recommended results😍😎
+
+![result](result_img.jpeg)
+
+
+Steps to run this project and check it's functionality
+- Clone this project
+- open in jupyter notebook
+- Go to the recommender function 
+- search for recommendation 
+
+That's all. ✅✅😍
+
